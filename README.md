@@ -1,6 +1,3 @@
-# Secure-Blog-Management-System
-
-```markdown
 # 📝 Secure Blog Management System
 
 A full-stack web application that allows authenticated users to create, read, update, and delete blog posts. This project is built with **React.js** for the frontend, **Node.js** and **Express.js** for the backend, and **MongoDB** as the database. The application supports private routing, session-based authentication, and responsive UI with Material-UI.
@@ -49,7 +46,7 @@ A full-stack web application that allows authenticated users to create, read, up
 │   └── context/
 └── README.md
 
-````
+```
 
 ---
 
