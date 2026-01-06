@@ -54,7 +54,7 @@ A full-stack web application that allows authenticated users to create, read, up
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/blog-management-app.git
+git clone https://github.com/Demonking-13/blog-management-app.git
 cd blog-management-app
 ````
 
